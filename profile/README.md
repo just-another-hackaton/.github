@@ -1,4 +1,6 @@
-## Hi there 👋
+## Campfire. 
+
+Campfire is een klein Vlaams collectief dat zich in hun vrije bezighoud met het ontwikkelen van een open-source verhuringstool. Met als doel het assisteren van jeugdbewegingen bij het verhuren van hun domain, materieel en of lokalen.   
 
 <!--
 
