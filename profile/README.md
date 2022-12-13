@@ -2,6 +2,13 @@
 
 Campfire is een klein Vlaams collectief dat zich in hun vrije bezighoud met het ontwikkelen van een open-source verhuringstool. Met als doel het assisteren van jeugdbewegingen bij het verhuren van hun domain, materieel en of lokalen.   
 
+## Platformen
+
+- [Reiziger](), ons beheerportaal van verhuringen omtrent material, lokalen of het domein ***(in ontwikkeling)***
+- [Hydro](), onze Laravel boilerplate voor het snel opstarten van projecten. ***(in ontwikkeling)**
+
+## Open-source
+
 <!--
 
 **Here are some ideas to get you started:**
