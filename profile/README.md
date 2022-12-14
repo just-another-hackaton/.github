@@ -13,7 +13,7 @@ Campfire is een klein Vlaams collectief dat zich in hun vrije bezighoud met het 
 
 ### Bijdragen 
 
-Indien u wilt bijdragen tot het project vragen we je eerst de [contributie standaarden](../CONTRIBUTING.md) door te nemen. Alvorens aan de slag te gaan met de broncode van onze projecten.
+Indien u wilt bijdragen tot het project vragen we je eerst de [contributie standaarden](CONTRIBUTING.md) door te nemen. Alvorens aan de slag te gaan met de broncode van onze projecten.
 <!--
 
 **Here are some ideas to get you started:**
